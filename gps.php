@@ -11,7 +11,7 @@ function tampil()
  \____/\_|    \____/    \_/_|  \__,_|\___|_|\_\_|_| |_|\__, |
                                                         __/ |
                                                        |___/ 
-    Author   : Brilly4n Gates => { IndoSec }
+    Author   : Kontol Gates=> { IndoSex }
     Contact  : 085230516559 - timtam.rpl@gmail.com
     FansPage : https://www.facebook.com/IndoSecOfficial/
     Version  : 1.0.1
